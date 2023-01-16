@@ -57,3 +57,9 @@ footer {
   font-size: 12px;
   text-align: center;
 }
+
+.backHome {
+  display: block;
+  margin: 0 auto;
+  font-size: 12px;
+}
