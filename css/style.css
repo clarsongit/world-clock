@@ -20,7 +20,7 @@ h2 {
 }
 
 .container {
-  margin: 60px auto;
+  margin: 60px auto 0;
   max-width: 600px;
   background: white;
   padding: 30px;
@@ -56,6 +56,7 @@ h2 {
 footer {
   font-size: 12px;
   text-align: center;
+  margin-top: 15px;
 }
 
 .backHome {
